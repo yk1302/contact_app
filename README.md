@@ -1,6 +1,6 @@
 # contact_app
 
-A flutter application which register user and authenticate user using 1.email and password, 2.Using OTP verification on phone number and registered user can save contact details with profile, update and delete contact details. User can also make call  and send text message to particular contact.
+A flutter application which register user and authenticate user using 1.email and password, 2.Using OTP verification on phone number and registered user can save contact details with profile, update and delete contact details. User can also make call  and send text message to particular contact
 
 ## Getting Started
 
